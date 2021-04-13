@@ -1,2 +1,1 @@
-# hello-world
-This is a short description
+What this thing is sooooo coooooool
